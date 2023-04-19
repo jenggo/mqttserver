@@ -1,0 +1,13 @@
+mqtt:
+  username: lorem 
+  password: ipsum
+
+tls:
+  usefile: true
+  certfile: certs/cert.crt
+  keyfile: certs/cert.key
+
+redis:
+  host: localhost
+  port: 6379
+  db: 1
